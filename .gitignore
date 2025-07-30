@@ -1,0 +1,22 @@
+# .gitignore
+
+# --- Python-specific files ---
+__pycache__/
+*.py[cod]
+*.so
+
+# --- Virtual Environment ---
+myenv/
+.venv/
+
+# --- IDE and editor files ---
+.vscode/
+.idea/
+
+# --- Data files and generated outputs ---
+/data/processed/
+/outputs/
+/logs/
+
+# --- Sensitive information ---
+.env
