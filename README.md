@@ -1,4 +1,4 @@
-#  Smart Loan Recovery System
+#  AI-Powered-Loan-Recovery
 
 A comprehensive and intelligent system designed to predict loan default risk and provide actionable, AI-powered recovery strategies for loan officers and agents. This project integrates a high-performance machine learning model with a large language model (LLM) to bridge the gap between technical predictions and practical, human-centric solutions.
 
@@ -52,7 +52,7 @@ Follow these steps to set up the project locally and run the notebooks.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Jaswanth-aditya/Smart-Loan-Recovery
+    git clone https://github.com/Jaswanth-aditya/AI-Powered-Loan-Recovery
     cd your-repo-name
     ```
 
